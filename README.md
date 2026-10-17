@@ -1,123 +1,89 @@
-# Hi, I'm 你的昵称 👋
+<p align="center">
+  <img src="./assets/dawn-banner.svg" width="100%" alt="DAWN — Build with curiosity. Think with clarity." />
+</p>
 
-**AI 工程师・大模型应用与智能体开发者・终身学习者**
+<h1 align="center">Hey there 👋, I'm DAWN</h1>
 
-📍 北京・INFJ・用原理驱动工程，用结构表达思考
+<p align="center">
+  <b>AI 工程师 · 大模型应用与智能体开发 · 终身学习者</b><br />
+  <sub>用原理驱动工程，用结构表达思考。</sub>
+</p>
 
+<p align="center">
+  <a href="https://github.com/ac1269277935?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Browse my repositories" /></a>
+  <a href="https://github.com/ac1269277935/ac1269277935/issues"><img src="https://img.shields.io/badge/Let's_talk-0F766E?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Start a conversation on GitHub" /></a>
+  <a href="https://github.com/ac1269277935?tab=followers"><img src="https://img.shields.io/github/followers/ac1269277935?label=Follow&amp;style=flat-square&amp;color=DB8B49" alt="GitHub followers" /></a>
+</p>
 
+### Glad to see you here! 很高兴遇见你
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social\&label=Follow)
+我关注 **大模型应用、检索增强生成（RAG）与 AI Agent**，喜欢从原理出发，把想法变成可以运行、验证和持续改进的项目。
 
+这里记录我的工程实践与学习过程：从文档理解和检索评测，到 Linux / C++ 基础，再到把人文与旅行兴趣做成小工具。希望每一次探索，都能留下清楚的思路和有用的作品。
 
+---
 
-![Email](https://img.shields.io/badge/Email-联系我-d14836?style=flat-square\&logo=gmail\&logoColor=white)
+### 🔭 What I'm exploring · 最近在探索
 
-\[
+- **RAG 与文档理解**：多模态检索、长文档问答，以及检索质量如何影响最终回答。
+- **Agent 工程**：框架机制、上下文组织与工具调用，让智能体更可靠地完成任务。
+- **从实验到工程**：关注复现流程、评测与文档，把“能跑起来”推进到“能解释清楚”。
+- **持续沉淀**：整理学习笔记与知识体系，保持对开源项目和前沿论文的好奇。
 
+### 🛠 Languages & tools · 技术与工具
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-24292F?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+</p>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
+`LLM Applications` · `Retrieval-Augmented Generation` · `AI Agents` · `Evaluation`
 
-]
+### 📌 Projects & explorations · 项目与实践
 
+| 项目 | 在这里探索什么 |
+| :--- | :--- |
+| 🧠 **[MoLoRAG](https://github.com/ac1269277935/MoLoRAG)** | 围绕开源 MoLoRAG 的多模态长文档检索与问答复现，整理中文复现指南与运行流程。 |
+| 🏞️ **[山河印记 · 中国 5A 景区地图](https://github.com/ac1269277935/shanhe-scenic-atlas)** | 可离线打开的交互旅行图册，支持景区筛选、搜索定位、个人标记与备份。 |
+| ⚙️ **[Linux WebServer](https://github.com/ac1269277935/Linux-webserver)** | 基于课程实践的 Linux / C++ Web 服务器，探索 I/O 多路复用、线程池与 HTTP 请求解析。 |
 
+<p>
+  <a href="https://github.com/ac1269277935?tab=repositories">查看全部仓库 →</a>
+</p>
 
-***
+### ⚡ GitHub & beyond · 代码之外
 
-## 🧑‍💻 关于我 About Me
+<details>
+  <summary><b>📊 GitHub activity · 展开查看</b></summary>
+  <br />
+  <a href="https://github.com/ac1269277935">
+    <img src="https://github-readme-stats.vercel.app/api?username=ac1269277935&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;theme=transparent&amp;title_color=DB8B49&amp;icon_color=0F9B8E" alt="DAWN's public GitHub activity statistics" />
+  </a>
+  <p><sub>统计图由第三方服务生成；如暂时无法加载，可直接查看主页下方的 GitHub 贡献记录。</sub></p>
+</details>
 
+<details>
+  <summary><b>🌱 Beyond code · 我的兴趣一角</b></summary>
 
+- 围棋、认知科学与哲学思辨。
+- 中国传统文化、历史人文与山河风物。
+- 科技与财经观察，以及让生活更便利的数码和智能家居。
 
-* 专注 **大模型应用与 Agent 开发**：RAG、Prompt 工程、Agent 框架、模型工程化落地
+</details>
 
-* 关注 AI 底层技术生态，习惯先想清楚原理再动手（文档型 Agent 机制、上下文工程、检索质量评估等）
+### 💬 Let's connect · 一起交流
 
-* 保持跨学科学习：认知科学、哲学思辨、历史人文 —— 相信技术之外的视野决定技术的高度
+欢迎交流 **RAG、Agent、文档理解、工程实践**，也欢迎分享有意思的开源项目。
 
-* 持续关注科技与财经生态，做一个长期主义者
+可以在 [主页仓库发起 Issue](https://github.com/ac1269277935/ac1269277935/issues)，或在相关项目下讨论具体问题。
 
-## 🛠️ 技术栈 Tech Stack
+---
 
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-
-
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-
-
-
-![LLM](https://img.shields.io/badge/LLM-大模型-0969da?style=flat-square)
-
-
-
-![RAG](https://img.shields.io/badge/RAG-检索增强-2ea44f?style=flat-square)
-
-
-
-![Agent](https://img.shields.io/badge/Agent-智能体-24292f?style=flat-square)
-
-
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-
-
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-
-## 🔭 当前在做 Currently
-
-
-
-* 探索 Agent 框架与检索增强（RAG）的工程化落地与评测
-
-* 构建个人知识库与学习笔记，持续沉淀
-
-* 关注大模型应用的前沿论文与开源生态
-
-## 📌 代表性项目 Projects
-
-> 也可以直接使用主页的「置顶项目 Pinned」功能，让最重要的仓库自动展示在主页上。
-
-
-
-* [项目 A](https://github.com/your-username/项目A) —— 一句话说明项目解决的问题和亮点
-
-* [项目 B](https://github.com/your-username/项目B) —— 一句话说明项目解决的问题和亮点
-
-* [项目 C](https://github.com/your-username/项目C) —— 一句话说明项目解决的问题和亮点
-
-## 📊 GitHub 数据
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=vue)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=vue)
-
-## 📫 联系我 Contact
-
-
-
-* 📮 邮箱：[your-email@example.com](mailto:your-email@example.com)
-
-* 📝 博客：[你的博客链接](https://你的博客链接)
-
-* 💬 社区：掘金 / 知乎 / B 站 主页链接
-
-## 🎯 兴趣一角 Fun Facts
-
-围棋・中国传统文化与历史・科技与财经观察・品质数码与智能家居
-
-
-
-***
-
-*保持好奇，持续构建 —— 欢迎交流与合作*
+<p align="center">
+  <b>保持好奇，持续构建。</b><br />
+  <sub>Thanks for stopping by. If something here helps you, a ⭐ is always appreciated.</sub>
+</p>
